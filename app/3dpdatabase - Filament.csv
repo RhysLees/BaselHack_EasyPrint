@@ -1,0 +1,316 @@
+Filament,Productionline,Material,Diameter,Color,Prop,NetWeig (g),PricRang (€),UserRev,Hygros,Plastic temperature (°C),melting temperature (°C),Abrasive,max temperature (°C),warping
+Hatchbox,PLA,Polylactic Acid,1.75,Various,Standard PLA,1,N/A,[User Review],No,190,200,No,190,Minimal
+Hatchbox,ABS,Acrylonitrile Butadiene Styrene,1.75,Various,Standard ABS,1,N/A,[User Review],Yes,220,240,Yes,230,Moderate
+Hatchbox,PETG,Polyethylene Terephthalate Glycol,1.75,Various,Standard PETG,1,N/A,[User Review],Yes,230,250,No,240,Low
+Hatchbox,TPU,Thermoplastic Polyurethane,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,220,230,No,230,Low
+Hatchbox,Wood PLA,Polylactic Acid (with Wood),1.75,Wood-look,Wood-Infused PLA,1,N/A,[User Review],Yes,190,200,No,190,Moderate
+Hatchbox,Flexible TPU,Thermoplastic Polyurethane,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,220,230,No,230,Minimal
+Hatchbox,PETG-CF,PETG with Carbon Fiber,1.75,Black,Carbon Fiber PETG,1,N/A,[User Review],Yes,230,240,Yes,240,Low
+Hatchbox,ABS-CF,ABS with Carbon Fiber,1.75,Black,Carbon Fiber ABS,1,N/A,[User Review],Yes,220,240,Yes,240,Moderate
+Hatchbox,HIPS,High Impact Polystyrene,1.75,White,High Impact HIPS,1,N/A,[User Review],Yes,210,220,No,210,Low
+Hatchbox,PVA,Polyvinyl Alcohol,1.75,Natural,PVA,0.5,N/A,[User Review],Yes,185,190,No,190,Low
+Hatchbox,Nylon,Nylon,1.75,Various,Standard Nylon,1,N/A,[User Review],Yes,245,260,No,260,Moderate
+Hatchbox,ASA,Acrylonitrile Styrene Acrylate,1.75,Various,ASA,1,N/A,[User Review],Yes,220,240,No,240,Moderate
+Hatchbox,PC,Polycarbonate,1.75,Various,PC,1,N/A,[User Review],Yes,270,300,Yes,300,Low
+Hatchbox,PLA Silk,Polylactic Acid,1.75,Various,Silk PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,PLA Glow in the Dark,Polylactic Acid,1.75,Glow-in-the-Dark,Glow-in-the-Dark PLA,1,N/A,[User Review],No,190,200,No,190,Minimal
+Hatchbox,Conductive PLA,Polylactic Acid,1.75,Black (Conductive),Conductive PLA,1,N/A,[User Review],No,190,200,Yes,200,Minimal
+Hatchbox,Marble PLA,Polylactic Acid,1.75,Marble,Marble PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,Bronze PLA,Polylactic Acid,1.75,Bronze,Bronze PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,Copper PLA,Polylactic Acid,1.75,Copper,Copper PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,Wood Filament (Mixed),Wood-Infused PLA,1.75,Mixed,Wood-Infused PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,Silver PLA,Polylactic Acid,1.75,Silver,Silver PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,Gold PLA,Polylactic Acid,1.75,Gold,Gold PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,White PLA,Polylactic Acid,1.75,White,Standard PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Hatchbox,Black PLA,Polylactic Acid,1.75,Black,Standard PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+eSUN,PLA,Polylactic Acid,1.75,Various,Standard PLA,1,N/A,[User Review],No,180 - 210,190 - 220,No,210,Low
+eSUN,ABS,Acrylonitrile Butadiene Styrene,1.75,Various,Standard ABS,1,N/A,[User Review],Yes,220 - 240,230 - 250,Yes,250,Moderate
+eSUN,PETG,Polyethylene Terephthalate Glycol,1.75,Various,Standard PETG,1,N/A,[User Review],Yes,230 - 250,240 - 260,No,250,Low
+eSUN,TPU,Thermoplastic Polyurethane,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,200 - 220,220 - 230,No,230,Minimal
+eSUN,PVA,Polyvinyl Alcohol,1.75,Natural,PVA,0.5,N/A,[User Review],Yes,190 - 200,200 - 210,No,210,Low
+eSUN,HIPS,High Impact Polystyrene,1.75,Various,High Impact HIPS,1,N/A,[User Review],Yes,210 - 220,220 - 240,No,240,Moderate
+eSUN,PLA+,PLA Plus,1.75,Various,Enhanced PLA,1,N/A,[User Review],No,190 - 210,200 - 220,No,220,Low
+eSUN,ePC,Polycarbonate,1.75,Various,PC,1,N/A,[User Review],Yes,260 - 270,270 - 300,Yes,300,Low
+eSUN,eFlex,Flexible TPU,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,220 - 230,230 - 240,No,240,Minimal
+eSUN,eLastic,Flexible TPE,1.75,Various,Flexible TPE,1,N/A,[User Review],Yes,220 - 230,230 - 240,No,240,Minimal
+eSUN,ePA,Nylon,1.75,Various,Standard Nylon,1,N/A,[User Review],Yes,230 - 260,260 - 280,No,280,Moderate
+eSUN,eCopper,Copper-PLA,1.75,Copper,Copper-PLA,1,N/A,[User Review],No,190 - 200,200 - 210,Yes,210,Minimal
+eSUN,eAlfill,Aluminum-PLA,1.75,Aluminum,Aluminum-PLA,1,N/A,[User Review],No,190 - 200,200 - 210,Yes,210,Minimal
+eSUN,eSilk-PLA,Silk PLA,1.75,Various,Silk PLA,1,N/A,[User Review],No,190 - 210,200 - 220,No,220,Minimal
+eSUN,eMarble-PLA,Marble PLA,1.75,Marble,Marble PLA,1,N/A,[User Review],No,190 - 210,200 - 220,No,220,Minimal
+eSUN,eWood-PLA,Wood-PLA,1.75,Wood,Wood-PLA,1,N/A,[User Review],No,190 - 210,200 - 220,No,220,Minimal
+eSUN,eCopper-PLA,Copper-PLA,1.75,Copper,Copper-PLA,1,N/A,[User Review],No,190 - 200,200 - 210,Yes,210,Minimal
+eSUN,eLastic,Flexible TPE,1.75,Various,Flexible TPE,1,N/A,[User Review],Yes,220 - 230,230 - 240,No,240,Minimal
+eSUN,ePA-CF,Carbon Fiber Nylon,1.75,Carbon,Carbon Fiber Nylon,1,N/A,[User Review],No,230 - 260,260 - 280,No,280,Moderate
+eSUN,ePA-GF,Glass Fiber Nylon,1.75,Glass,Glass Fiber Nylon,1,N/A,[User Review],No,230 - 260,260 - 280,No,280,Moderate
+AMZ3D,PLA,Polylactic Acid,1.75,Various,Standard PLA,1,N/A,[User Review],No,180 - 210,190 - 220,No,220,Low
+AMZ3D,ABS,Acrylonitrile Butadiene Styrene,1.75,Various,Standard ABS,1,N/A,[User Review],Yes,220 - 240,230 - 250,Yes,250,Moderate
+AMZ3D,PETG,Polyethylene Terephthalate Glycol,1.75,Various,Standard PETG,1,N/A,[User Review],Yes,230 - 250,240 - 260,No,250,Low
+AMZ3D,TPU,Thermoplastic Polyurethane,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,200 - 220,220 - 230,No,230,Minimal
+AMZ3D,HIPS,High Impact Polystyrene,1.75,Various,High Impact HIPS,1,N/A,[User Review],Yes,210 - 220,220 - 240,No,240,Moderate
+AMZ3D,PVA,Polyvinyl Alcohol,1.75,Natural,PVA,0.5,N/A,[User Review],Yes,190 - 200,200 - 210,No,210,Low
+AMZ3D,Wood PLA,Wood-Infused PLA,1.75,Wood,Wood-Infused PLA,1,N/A,[User Review],No,180 - 210,190 - 220,No,220,Low
+AMZ3D,Carbon Fiber PLA,Carbon Fiber PLA,1.75,Carbon,Carbon Fiber PLA,1,N/A,[User Review],No,180 - 210,190 - 220,Yes,220,Low
+AMZ3D,Silk PLA,Silk PLA,1.75,Various,Silk PLA,1,N/A,[User Review],No,180 - 210,190 - 220,No,220,Low
+AMZ3D,Glow in the Dark PLA,Glow-in-the-Dark PLA,1.75,Various,Glow-in-the-Dark PLA,1,N/A,[User Review],No,180 - 210,190 - 220,No,220,Low
+AMZ3D,Flexible TPU,Flexible TPU,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,200 - 220,220 - 230,No,230,Minimal
+AMZ3D,Marble PLA,Marble PLA,1.75,Marble,Marble PLA,1,N/A,[User Review],No,180 - 210,190 - 220,No,220,Low
+AMZ3D,Bronze PLA,Bronze-Infused PLA,1.75,Bronze,Bronze-Infused PLA,1,N/A,[User Review],No,180 - 210,190 - 220,Yes,220,Low
+AMZ3D,Copper PLA,Copper-Infused PLA,1.75,Copper,Copper-Infused PLA,1,N/A,[User Review],No,180 - 210,190 - 220,Yes,220,Low
+Polymaker,PLA,Polylactic Acid,1.75,Various,Standard PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Polymaker,ABS,Acrylonitrile Butadiene Styrene,1.75,Various,Standard ABS,1,N/A,[User Review],Yes,220,240,Yes,240,Moderate
+Polymaker,PETG,Polyethylene Terephthalate Glycol,1.75,Various,Standard PETG,1,N/A,[User Review],Yes,230,250,No,250,Low
+Polymaker,TPU,Thermoplastic Polyurethane,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,220,230,No,230,Low
+Polymaker,PC,Polycarbonate,1.75,Various,PC,1,N/A,[User Review],Yes,270,300,Yes,300,Low
+Polymaker,ASA,Acrylonitrile Styrene Acrylate,1.75,Various,ASA,1,N/A,[User Review],No,230,250,No,240,Low
+Polymaker,PVA,Polyvinyl Alcohol,1.75,Natural,PVA,0.5,N/A,[User Review],Yes,185,190,No,190,Low
+Polymaker,PolyWood,Wood-Infused PLA,1.75,Various,Wood-Infused PLA,1,N/A,[User Review],No,190,210,No,200,Minimal
+Polymaker,PolyMide,Nylon,1.75,Various,Nylon,1,N/A,[User Review],Yes,250,280,Yes,260,Moderate
+Polymaker,PolyMax,Enhanced PLA,1.75,Various,Enhanced PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Polymaker,PolyLite,PLA,1.75,Various,Standard PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Polymaker,PolyFlex,Flexible TPU,1.75,Various,Flexible TPU,1,N/A,[User Review],Yes,220,230,No,230,Low
+Polymaker,PolySupport,Support Material,1.75,Natural,Support Material,0.5,N/A,[User Review],Yes,N/A,N/A,N/A,N/A,N/A
+Polymaker,PolySmooth,PLA with Layer Smoothing,1.75,Various,Smooth PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+Polymaker,PolyCast,Castable Resin,1.75,Natural,Castable Resin,0.5,N/A,[User Review],No,N/A,N/A,N/A,N/A,N/A
+Polymaker,PolyDissolve,Dissolvable Support,1.75,Natural,Dissolvable Support Material,0.5,N/A,[User Review],Yes,N/A,N/A,N/A,N/A,N/A
+ColorFabb,PLA,Polylactic Acid,1.75,Various,Standard PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+ColorFabb,ABS,Acrylonitrile Butadiene Styrene,1.75,Various,Standard ABS,0.75,N/A,[User Review],Yes,220,240,Yes,240,Moderate
+ColorFabb,PETG,Polyethylene Terephthalate Glycol,1.75,Various,Standard PETG,0.75,N/A,[User Review],Yes,225,250,No,250,Low
+ColorFabb,XT,Co-Polyester,1.75,Various,Co-Polyester,0.75,N/A,[User Review],Yes,240,260,No,260,Low
+ColorFabb,NGEN,Co-Polyester,1.75,Various,Co-Polyester,0.75,N/A,[User Review],Yes,220,240,No,240,Low
+ColorFabb,nGen Flex,Flexible Co-Polyester,1.75,Various,Flexible Co-Polyester,0.75,N/A,[User Review],No,220,240,No,240,Low
+ColorFabb,PA,Nylon,1.75,Various,Nylon,0.75,N/A,[User Review],Yes,250,260,Yes,260,Low
+ColorFabb,HT,High-Temperature PLA,1.75,Various,High-Temperature PLA,0.75,N/A,[User Review],No,240,260,No,260,Minimal
+ColorFabb,XT-CF20,PLA with Carbon Fiber,1.75,Black,PLA with Carbon Fiber,0.75,N/A,[User Review],No,195,215,Yes,215,Minimal
+ColorFabb,HT Max,High-Temperature PLA,1.75,Various,High-Temperature PLA,0.75,N/A,[User Review],No,260,280,No,280,Minimal
+ColorFabb,LW-PLA,Lightweight PLA,1.75,Various,Lightweight PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+ColorFabb,PLA/PHA,Co-Polyester,1.75,Various,Co-Polyester,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+ColorFabb,WoodFill,Wood-Infused PLA,1.75,Wood,Wood-Infused PLA,0.75,N/A,[User Review],Yes,190,210,No,210,Minimal
+ColorFabb,CorkFill,Cork-Infused PLA,1.75,Cork,Cork-Infused PLA,0.75,N/A,[User Review],Yes,190,210,No,210,Minimal
+ColorFabb,Bronzefill,Bronze-Infused PLA,1.75,Bronze,Bronze-Infused PLA,0.75,N/A,[User Review],Yes,190,210,Yes,210,Minimal
+ColorFabb,CopperFill,Copper-Infused PLA,1.75,Copper,Copper-Infused PLA,0.75,N/A,[User Review],Yes,190,210,Yes,210,Minimal
+ColorFabb,BrassFill,Brass-Infused PLA,1.75,Brass,Brass-Infused PLA,0.75,N/A,[User Review],Yes,190,210,Yes,210,Minimal
+ColorFabb,GlowFill,Glow-in-the-Dark PLA,1.75,Glow-in-the-Dark,Glow-in-the-Dark PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+ColorFabb,Green-TEC,PLA,1.75,Green,Green PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+ColorFabb,Ultrafuse ASA,Acrylonitrile Styrene Acrylate,1.75,Various,ASA,0.75,N/A,[User Review],No,230,250,No,240,Low
+Proto-Pasta,PLA,Polylactic Acid,1.75,Various,Standard PLA,0.5,N/A,[User Review],No,180,210,No,210,Minimal
+Proto-Pasta,HTPLA,High-Temperature PLA,1.75,Various,High-Temperature PLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Matte Fiber HTPLA,High-Temperature PLA,1.75,Matte Black,High-Temperature Matte PLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Carbon Fiber PLA,PLA with Carbon Fiber,1.75,Carbon Fiber Black,PLA with Carbon Fiber,0.5,N/A,[User Review],No,180,210,Yes,210,Minimal
+Proto-Pasta,Stainless Steel PLA,PLA with Stainless Steel,1.75,Stainless Steel Gray,PLA with Stainless Steel,0.5,N/A,[User Review],No,180,210,Yes,210,Minimal
+Proto-Pasta,Iron PLA,PLA with Iron,1.75,Iron Gray,PLA with Iron,0.5,N/A,[User Review],No,180,210,Yes,210,Minimal
+Proto-Pasta,Magnetic Iron PLA,PLA with Iron,1.75,Iron Gray,PLA with Iron,0.5,N/A,[User Review],No,180,210,Yes,210,Minimal
+Proto-Pasta,Aromatic Coffee HTPLA,High-Temperature PLA,1.75,Coffee Brown,Aromatic Coffee HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Aromatic Pine HTPLA,High-Temperature PLA,1.75,Pine Green,Aromatic Pine HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Aromatic Basil HTPLA,High-Temperature PLA,1.75,Basil Green,Aromatic Basil HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Aromatic Lavender HTPLA,High-Temperature PLA,1.75,Lavender Purple,Aromatic Lavender HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Aromatic Eucalyptus HTPLA,High-Temperature PLA,1.75,Eucalyptus Green,Aromatic Eucalyptus HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Aromatic Cinnamon HTPLA,High-Temperature PLA,1.75,Cinnamon Brown,Aromatic Cinnamon HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Aromatic Peppermint HTPLA,High-Temperature PLA,1.75,Peppermint Green,Aromatic Peppermint HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Polycarbonate-ABS Alloy,Polycarbonate-ABS Alloy,1.75,Black,Polycarbonate-ABS Alloy,0.5,N/A,[User Review],No,230,260,Yes,260,Minimal
+Proto-Pasta,Polycarbonate-ABS Alloy Carbon Fiber,Polycarbonate-ABS Alloy with Carbon,1.75,Black,Polycarbonate-ABS Alloy with Carbon Fiber,0.5,N/A,[User Review],Yes,230,260,Yes,260,Minimal
+Proto-Pasta,Crystal Clear PLA,Polylactic Acid,1.75,Crystal Clear,Transparent PLA,0.5,N/A,[User Review],No,180,220,No,220,Minimal
+Proto-Pasta,Glitter Flake HTPLA,High-Temperature PLA,1.75,Glitter Blue,Glitter Flake HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,Galactic Empire Imperial Gray HTPLA,High-Temperature PLA,1.75,Imperial Gray,Galactic Empire Imperial Gray HTPLA,0.5,N/A,[User Review],No,180,240,No,240,Minimal
+Proto-Pasta,The Original Carbon Fiber PLA,PLA with Carbon Fiber,1.75,Carbon Fiber Black,The Original Carbon Fiber PLA,0.5,N/A,[User Review],No,180,210,Yes,210,Minimal
+MatterHackers,MH Build Series PLA,Polylactic Acid,1.75,Various,Standard PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+MatterHackers,MH Build Series PETG,Polyethylene Terephthalate Glycol,1.75,Various,PETG,1,N/A,[User Review],No,230,250,Yes,250,Minimal
+MatterHackers,MH Build Series ABS,Acrylonitrile Butadiene Styrene,1.75,Various,ABS,1,N/A,[User Review],Yes,230,240,Yes,240,Moderate
+MatterHackers,MH Build Series PRO Series PLA,Polylactic Acid,1.75,Various,High-Quality PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+MatterHackers,MH Build Series PRO Series PETG,Polyethylene Terephthalate Glycol,1.75,Various,High-Quality PETG,1,N/A,[User Review],No,230,250,Yes,250,Minimal
+MatterHackers,MH Build Series Nylon,Nylon,1.75,Various,Nylon,0.5,N/A,[User Review],Yes,220,250,Yes,250,Moderate
+MatterHackers,MH Build Series Flexible TPU,Thermoplastic Polyurethane,1.75,Various,TPU,0.5,N/A,[User Review],No,190,210,No,210,Minimal
+MatterHackers,MH Build Series PVA,Polyvinyl Alcohol,1.75,Natural,PVA,0.5,N/A,[User Review],Yes,180,190,No,190,Minimal
+MatterHackers,MH Build Series HIPS,High Impact Polystyrene,1.75,Natural,HIPS,1,N/A,[User Review],Yes,230,240,Yes,240,Minimal
+MatterHackers,MH Build Series ASA,Acrylonitrile Styrene Acrylate,1.75,Various,ASA,1,N/A,[User Review],Yes,230,250,Yes,250,Minimal
+MatterHackers,MH Build Series PC ,Polycarbonate,1.75,Clear,PC,0.5,N/A,[User Review],No,240,270,Yes,270,Moderate
+MatterHackers,MH Build Series CF-Nylon (Carbon Fiber Nylon),Carbon Fiber Nylon,1.75,Black,CF-Nylon,1,N/A,[User Review],Yes,240,270,Yes,270,Moderate
+MatterHackers,MH Build Series Fiberglass PETG,Polyethylene Terephthalate Glycol,1.75,Various,PETG with Fiberglass,1,N/A,[User Review],Yes,230,250,Yes,250,Minimal
+MatterHackers,MH Build Series Gypsum-PHA (PLA with gypsum),Polylactic Acid,1.75,Gypsum,PLA with gypsum,1,N/A,[User Review],No,190,200,No,200,Minimal
+MatterHackers,MH Build Series Multicolor PLA,Polylactic Acid,1.75,Multicolor,Multicolor PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+MatterHackers,MH Build Series Wood PLA,Polylactic Acid,1.75,Wood,Wood-Infused PLA,0.5,N/A,[User Review],No,190,200,No,200,Minimal
+MatterHackers,MH Build Series Color Changing PLA,Polylactic Acid,1.75,Multicolor,Color Changing PLA,1,N/A,[User Review],No,190,200,No,200,Minimal
+MatterHackers,MH Build Series Pro ABS,Acrylonitrile Butadiene Styrene,1.75,Various,High-Quality ABS,1,N/A,[User Review],Yes,230,240,Yes,240,Moderate
+MatterHackers,MH Build Series Pro ABS-R,Acrylonitrile Butadiene Styrene,1.75,Red,High-Quality ABS-R,1,N/A,[User Review],Yes,230,240,Yes,240,Moderate
+MatterHackers,MH Build Series Pro PETG,Polyethylene Terephthalate Glycol,1.75,Various,High-Quality PETG,1,N/A,[User Review],Yes,230,240,Yes,240,Minimal
+MatterHackers,MH Build Series Pro Flex (Flexible TPU),Thermoplastic Polyurethane,1.75,Various,High-Quality TPU,1,N/A,[User Review],No,200,210,No,210,Minimal
+Formfutura,EasyFil PLA,Polylactic Acid,1.75,Various,Standard PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+Formfutura,EasyFil ABS,Acrylonitrile Butadiene Styrene,1.75,Various,ABS,0.75,N/A,[User Review],Yes,220,250,Yes,250,Moderate
+Formfutura,HDglass PETG,Polyethylene Terephthalate Glycol,1.75,Various,PETG,0.75,N/A,[User Review],No,220,240,Yes,240,Minimal
+Formfutura,TitanX ABS,Acrylonitrile Butadiene Styrene,1.75,Various,ABS,0.75,N/A,[User Review],Yes,240,260,Yes,260,Moderate
+Formfutura,ApolloX ASA,Acrylonitrile Styrene Acrylate,1.75,Various,ASA,0.75,N/A,[User Review],Yes,240,260,Yes,260,Minimal
+Formfutura,FlexiFil TPU,Thermoplastic Polyurethane,1.75,Various,TPU,0.5,N/A,[User Review],No,210,230,No,230,Minimal
+Formfutura,Volcano PLA,Polylactic Acid,1.75,Various,High-Flow PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+Formfutura,StoneFil,Polylactic Acid,1.75,Various,Stone-Infused PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+Formfutura,MetalFil,Polylactic Acid,1.75,Various,Metal-Infused PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+Formfutura,CarbonFil,Polylactic Acid,1.75,Various,Carbon Fiber-Infused PLA,0.75,N/A,[User Review],Yes,190,210,Yes,210,Minimal
+Formfutura,WoodFil,Polylactic Acid,1.75,Various,Wood-Infused PLA,0.75,N/A,[User Review],No,190,210,No,210,Minimal
+Formfutura,PEEK,Polyether Ether Ketone,1.75,Natural,PEEK,0.5,N/A,[User Review],No,350,380,Yes,380,Moderate
+Formfutura,PC-ABS,Polycarbonate-ABS Blend,1.75,Various,PC-ABS,0.75,N/A,[User Review],Yes,250,270,Yes,270,Moderate
+Formfutura,PCTG,Polyethylene Terephthalate Cyclohexanedimethanol Modified,1.75,Various,PCTG,0.75,N/A,[User Review],No,220,240,No,240,Minimal
+Formfutura,PolyDissolve,Support Material,1.75,Natural,Dissolvable Support,0.5,N/A,[User Review],Yes,N/A,N/A,N/A,N/A,N/A
+Formfutura,EasyCork,Cork-Infused PLA,1.75,Various,Cork-Infused PLA,0.5,N/A,[User Review],No,190,220,No,220,Minimal
+Formfutura,EasyWood,Wood-Infused PLA,1.75,Various,Wood-Infused PLA,0.5,N/A,[User Review],No,190,220,No,220,Minimal
+Formfutura,EasyMarble,Marble-Infused PLA,1.75,Various,Marble-Infused PLA,0.5,N/A,[User Review],No,190,220,No,220,Minimal
+Formfutura,EasyCarbon,Carbon Fiber-Infused PLA,1.75,Various,Carbon Fiber-Infused PLA,0.5,N/A,[User Review],No,190,220,No,220,Minimal
+Formfutura,ReForm,Recycled Filaments,1.75,Various,Recycled Filaments,0.75,N/A,[User Review],No,N/A,N/A,N/A,N/A,N/A
+Priline,PLA,Polylactic Acid,1.75,Various,Standard PLA,1,N/A,[User Review],No,190,210,No,210,Minimal
+Priline,PETG,Polyethylene Terephthalate Glycol,1.75,Various,PETG,1,N/A,[User Review],No,220,250,Yes,250,Moderate
+Priline,TPU,Thermoplastic Polyurethane,1.75,Various,TPU,1,N/A,[User Review],No,210,230,No,230,Minimal
+Priline,Silk PLA,Polylactic Acid,1.75,Various,Silk PLA,1,N/A,[User Review],No,190,210,No,210,Minimal
+Priline,Marble PLA,Polylactic Acid,1.75,Various,Marble PLA,1,N/A,[User Review],No,190,210,No,210,Minimal
+Priline,Wood PLA,Polylactic Acid,1.75,Various,Wood PLA,1,N/A,[User Review],No,190,210,No,210,Minimal
+Priline,Carbon Fiber PLA,Polylactic Acid,1.75,Various,Carbon Fiber-Infused PLA,1,N/A,[User Review],Yes,190,210,Yes,210,Minimal
+Priline,Rainbow PLA (Multi-Color PLA),Polylactic Acid,1.75,Multi-Color,Multi-Color PLA,1,N/A,[User Review],No,190,210,No,210,Minimal
+Priline,Flex TPU,Thermoplastic Polyurethane,1.75,Various,Flexible TPU,1,N/A,[User Review],No,190,210,No,210,Minimal
+Priline,Glitter PLA,Polylactic Acid,1.75,Various,Glitter PLA,1,N/A,[User Review],No,190,210,No,210,Minimal
+Priline,Copper PLA,Polylactic Acid,1.75,Various,Copper-Infused PLA,1,N/A,[User Review],Yes,190,210,No,210,Minimal
+Priline,Bronze PLA,Polylactic Acid,1.75,Various,Bronze-Infused PLA,1,N/A,[User Review],Yes,190,210,No,210,Minimal
+taulman3D,T-Glase (PETT),Terephthalate Polyethylene,1.75,Various,T-Glase,1,N/A,[User Review],No,240,265,No,265,Minimal
+taulman3D,Bridge (Nylon),Nylon,1.75,Various,Bridge,1,N/A,[User Review],No,235,249,No,249,Moderate
+taulman3D,Alloy 910 (Nylon),Nylon,1.75,Various,Alloy 910,1,N/A,[User Review],No,249,262,No,262,Minimal
+taulman3D,n-vent (PETT),Terephthalate Polyethylene,1.75,Various,n-vent,1,N/A,[User Review],No,240,265,No,265,Minimal
+taulman3D,Guidel!ne (Nylon),Nylon,1.75,Various,Guidel!ne,1,N/A,[User Review],No,235,249,No,249,Moderate
+taulman3D,PCTPE (TPE),Polyester Co-Polymer,1.75,Various,PCTPE,1,N/A,[User Review],No,220,240,No,240,Minimal
+taulman3D,680 FDA Nylon,Nylon,1.75,Various,680 FDA Nylon,1,N/A,[User Review],No,235,249,No,249,Minimal
+taulman3D,TECH-G (PETT),Terephthalate Polyethylene,1.75,Various,TECH-G,1,N/A,[User Review],No,240,265,No,265,Minimal
+taulman3D,Tritan (Copolyester),Copolyester,1.75,Various,Tritan,1,N/A,[User Review],No,250,270,No,270,Minimal
+taulman3D,n-vent T (High-Strength PETT),High-Strength PETT,1.75,Various,n-vent T,1,N/A,[User Review],No,250,270,No,270,Minimal
+taulman3D,T-Lyne (PETT),Terephthalate Polyethylene,1.75,Various,T-Lyne,1,N/A,[User Review],No,240,265,No,265,Minimal
+3DXTech,CarbonX Carbon Fiber PETG,Carbon Fiber PETG,1.75,Various,CarbonX PETG,0.75,N/A,[User Review],No,240,260,Yes,260,Moderate
+3DXTech,ESD-Safe PETG,PETG,1.75,Various,ESD-Safe PETG,0.75,N/A,[User Review],No,230,250,No,250,Minimal
+3DXTech,Pro PLA,PLA,1.75,Various,Pro PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3DXTech,Pro PETG,PETG,1.75,Various,Pro PETG,1,N/A,[User Review],No,230,250,No,250,Minimal
+3DXTech,Pro ABS,ABS,1.75,Various,Pro ABS,1,N/A,[User Review],No,220,250,Yes,250,Moderate
+3DXTech,Pro HIPS,HIPS,1.75,Various,Pro HIPS,1,N/A,[User Review],No,220,250,No,250,Minimal
+3DXTech,Pro PPSU (Polyphenylsulfone),PPSU,1.75,Various,Pro PPSU,0.5,N/A,[User Review],No,270,280,No,280,Minimal
+3DXTech,Pro PEEK (Polyether Ether Ketone),PEEK,1.75,Various,Pro PEEK,0.5,N/A,[User Review],No,350,400,Yes,400,Moderate
+3DXTech,Pro Carbon Fiber ABS,Carbon Fiber ABS,1.75,Various,Carbon Fiber ABS,0.75,N/A,[User Review],No,220,240,Yes,240,Moderate
+3DXTech,Pro Carbon Fiber Nylon,Carbon Fiber Nylon,1.75,Various,Carbon Fiber Nylon,0.75,N/A,[User Review],No,230,250,Yes,250,Moderate
+3DXTech,Pro Carbon Fiber PETG,Carbon Fiber PETG,1.75,Various,Carbon Fiber PETG,0.75,N/A,[User Review],No,240,260,Yes,260,Moderate
+3DXTech,Pro Carbon Fiber Polycarbonate,Carbon Fiber Polycarbonate,1.75,Various,Carbon Fiber Polycarbonate,0.75,N/A,[User Review],No,260,280,Yes,280,Moderate
+3DXTech,Pro Carbon Fiber PPSU,Carbon Fiber PPSU,1.75,Various,Carbon Fiber PPSU,0.5,N/A,[User Review],No,280,290,No,290,Minimal
+3DXTech,Pro Carbon Fiber PEEK,Carbon Fiber PEEK,1.75,Various,Carbon Fiber PEEK,0.5,N/A,[User Review],No,350,400,Yes,400,Moderate
+3DXTech,Pro HTN (High-Temperature Nylon),HTN,1.75,Various,Pro HTN,1,N/A,[User Review],No,280,300,No,300,Minimal
+3DXTech,Pro HIPS Carbon Fiber,HIPS Carbon Fiber,1.75,Various,HIPS Carbon Fiber,1,N/A,[User Review],No,230,240,No,240,Minimal
+3DXTech,Pro PEEK Carbon Fiber,PEEK Carbon Fiber,1.75,Various,PEEK Carbon Fiber,1,N/A,[User Review],No,350,400,Yes,400,Moderate
+3DXTech,Pro PEEK CF30 (Carbon Fiber Filled PEEK),Carbon Fiber Filled PEEK,1.75,Various,PEEK CF30,0.5,N/A,[User Review],No,350,400,Yes,400,Moderate
+3DXTech,Pro PEEK CF20 (Carbon Fiber Filled PEEK),Carbon Fiber Filled PEEK,1.75,Various,PEEK CF20,0.5,N/A,[User Review],No,350,400,Yes,400,Moderate
+3DXTech,Pro PEEK GF30 (Glass Fiber Filled PEEK),Glass Fiber Filled PEEK,1.75,Various,PEEK GF30,0.5,N/A,[User Review],No,350,400,Yes,400,Moderate
+Filamentum,PLA (Polylactic Acid),Polylactic Acid (PLA),1.75,Various,PLA,0.75,N/A,[User Review],No,180,220,No,220,Minimal
+Filamentum,ABS (Acrylonitrile Butadiene Styrene),Acrylonitrile Butadiene Styrene (ABS),1.75,Various,ABS,0.75,N/A,[User Review],Yes,210,240,Yes,240,Moderate
+Filamentum,PETG (Polyethylene Terephthalate Glycol),Polyethylene Terephthalate Glycol (PETG),1.75,Various,PETG,0.75,N/A,[User Review],No,220,250,No,250,Minimal
+Filamentum,ASA (Acrylonitrile Styrene Acrylate),Acrylonitrile Styrene Acrylate (ASA),1.75,Various,ASA,0.75,N/A,[User Review],No,230,255,Yes,255,Minimal
+Filamentum,CPE (Co-Polyester),Co-Polyester (CPE),1.75,Various,CPE,0.75,N/A,[User Review],No,230,255,Yes,255,Moderate
+Filamentum,CPE HG100 (High-Gloss Co-Polyester),High-Gloss Co-Polyester (CPE HG100),1.75,Various,CPE HG100,0.75,N/A,[User Review],No,230,255,Yes,255,Moderate
+Filamentum,Nylon FX256,Nylon (Nylon FX256),1.75,Various,Nylon FX256,0.75,N/A,[User Review],Yes,260,280,No,280,Moderate
+Filamentum,Timberfill (Wood-Infused PLA),Wood-Infused PLA (Timberfill),1.75,Various,Timberfill,0.75,N/A,[User Review],No,180,220,No,220,Minimal
+Filamentum,Vertigo Grey (High-Heat PLA),High-Heat PLA (Vertigo Grey),1.75,Various,Vertigo Grey,0.75,N/A,[User Review],No,230,250,No,250,Minimal
+Filamentum,Rapunzel Silver (High-Heat PLA),High-Heat PLA (Rapunzel Silver),1.75,Various,Rapunzel Silver,0.75,N/A,[User Review],No,230,250,No,250,Minimal
+Filamentum,Crystal Clear (Clear PLA),Clear PLA (Crystal Clear),1.75,Transparent,Crystal Clear,0.75,N/A,[User Review],No,180,220,No,220,Minimal
+Filamentum,Flexfill 98A (Flexible TPU),Flexible TPU (Flexfill 98A),1.75,Various,Flexfill 98A,0.5,N/A,[User Review],No,220,230,No,230,Minimal
+Filamentum,PP (Polypropylene),Polypropylene (PP),1.75,Various,PP,0.75,N/A,[User Review],No,210,240,No,240,Minimal
+Filamentum,PC-ABS (Polycarbonate-ABS Blend),Polycarbonate-ABS Blend (PC-ABS),1.75,Various,PC-ABS,0.75,N/A,[User Review],No,240,280,Yes,280,Moderate
+Filamentum,PVA (Polyvinyl Alcohol),Polyvinyl Alcohol (PVA),1.75,Various,PVA,0.2,N/A,[User Review],Yes,200,220,No,220,Minimal
+3D-Fuel,Standard PLA (Polylactic Acid),Polylactic Acid (PLA),1.75,Various,PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Pro PLA (PLA+),PLA+,1.75,Various,PLA+,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Workday PLA (High-Performance PLA),High-Performance PLA,1.75,Various,High-Performance PLA,1,N/A,[User Review],No,200,220,No,220,Minimal
+3D-Fuel,Industrial PLA,PLA,1.75,Various,PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Advanced PLA,PLA,1.75,Various,PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Biome3D PLA (Biodegradable PLA),Biodegradable PLA,1.75,Various,Biodegradable PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Pro PLA v3,PLA+,1.75,Various,PLA+,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,HydroSupport (Water-Soluble Support Material),Water-Soluble Support Material,1.75,Natural,Water-Soluble Support Material,0.5,N/A,[User Review],Yes,150,190,No,190,Minimal
+3D-Fuel,PETG (Polyethylene Terephthalate Glycol),Polyethylene Terephthalate Glycol (PETG),1.75,Various,PETG,1,N/A,[User Review],No,220,250,No,250,Minimal
+3D-Fuel,Algae-Fuel PLA (Algae-Infused PLA),Algae-Infused PLA,1.75,Various,Algae-Infused PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Entwined Hemp PLA (Hemp-Infused PLA),Hemp-Infused PLA,1.75,Various,Hemp-Infused PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Wound Up Coffee PLA (Coffee-Infused PLA),Coffee-Infused PLA,1.75,Various,Coffee-Infused PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Beer PLA (Beer-Infused PLA),Beer-Infused PLA,1.75,Various,Beer-Infused PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Buzzed Beer Filament (Beer-Infused PLA),Beer-Infused PLA,1.75,Various,Beer-Infused PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Beer Filament (Beer-Infused PLA),Beer-Infused PLA,1.75,Various,Beer-Infused PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Landfillament (Recycled PLA),Recycled PLA,1.75,Various,Recycled PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+3D-Fuel,Industrial R-PETG (Recycled PETG),Recycled PETG,1.75,Various,Recycled PETG,1,N/A,[User Review],No,220,250,No,250,Minimal
+3D-Fuel,Glass Filled PLA (Glass Fiber-Infused PLA),Glass Fiber-Infused PLA,1.75,Various,Glass Fiber-Infused PLA,1,N/A,[User Review],No,180,220,Yes,220,Minimal
+3D-Fuel,Workday ABS (Acrylonitrile Butadiene Styrene),Acrylonitrile Butadiene Styrene,1.75,Various,ABS,1,N/A,[User Review],No,230,250,Yes,250,Moderate
+3D-Fuel,Workday PETG (Polyethylene Terephthalate Glycol),Polyethylene Terephthalate Glycol (PETG),1.75,Various,PETG,1,N/A,[User Review],No,220,250,No,250,Minimal
+FiloAlfa,PLA (Polylactic Acid),Polylactic Acid (PLA),1.75,Various,PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+FiloAlfa,ABS (Acrylonitrile Butadiene Styrene),Acrylonitrile Butadiene Styrene (ABS),1.75,Various,ABS,1,N/A,[User Review],No,230,240,Yes,240,Moderate
+FiloAlfa,PETG (Polyethylene Terephthalate Glycol),Polyethylene Terephthalate Glycol (PETG),1.75,Various,PETG,1,N/A,[User Review],No,230,245,No,245,Minimal
+FiloAlfa,TPU (Thermoplastic Polyurethane),Thermoplastic Polyurethane (TPU),1.75,Various,TPU,1,N/A,[User Review],No,210,230,No,230,Minimal
+FiloAlfa,PA (Nylon),Nylon,1.75,Various,Nylon,1,N/A,[User Review],Yes,240,250,No,250,Moderate
+FiloAlfa,HIPS (High Impact Polystyrene),High Impact Polystyrene (HIPS),1.75,Various,HIPS,1,N/A,[User Review],No,230,240,Yes,240,Moderate
+FiloAlfa,PVA (Polyvinyl Alcohol),Polyvinyl Alcohol (PVA),1.75,Natural,PVA,1,N/A,[User Review],Yes,180,190,No,190,Minimal
+FiloAlfa,PC (Polycarbonate),Polycarbonate (PC),1.75,Various,PC,1,N/A,[User Review],Yes,270,310,Yes,310,Moderate
+FiloAlfa,ASA (Acrylonitrile Styrene Acrylate),Acrylonitrile Styrene Acrylate (ASA),1.75,Various,ASA,1,N/A,[User Review],No,230,240,Yes,240,Moderate
+FiloAlfa,PP (Polypropylene),Polypropylene (PP),1.75,Various,PP,1,N/A,[User Review],No,220,260,No,260,Minimal
+FiloAlfa,PEI (Polyetherimide),Polyetherimide (PEI),1.75,Various,PEI,1,N/A,[User Review],No,350,360,Yes,360,Moderate
+FiloAlfa,PPSU (Polyphenylsulfone),Polyphenylsulfone (PPSU),1.75,Various,PPSU,1,N/A,[User Review],No,360,380,Yes,380,Moderate
+FiloAlfa,PC-ABS (Polycarbonate-ABS Blend),Polycarbonate-ABS Blend,1.75,Various,PC-ABS,1,N/A,[User Review],Yes,270,310,Yes,310,Moderate
+FiloAlfa,Wood PLA (Wood-Infused PLA),Wood-Infused PLA,1.75,Various,Wood-Infused PLA,1,N/A,[User Review],No,180,220,No,220,Minimal
+FiloAlfa,PETG-CF20 (Carbon Fiber-Infused PETG),Carbon Fiber-Infused PETG,1.75,Various,PETG,1,N/A,[User Review],No,230,240,Yes,240,Moderate
+Zortrax,Z-ABS (Acrylonitrile Butadiene Styrene),Acrylonitrile Butadiene Styrene (ABS),1.75,Various,ABS,0.8,N/A,[User Review],No,230,240,No,240,Moderate
+Zortrax,Z-PLA (Polylactic Acid),Polylactic Acid (PLA),1.75,Various,PLA,0.8,N/A,[User Review],No,190,220,No,220,Minimal
+Zortrax,Z-PETG (Polyethylene Terephthalate Glycol),Polyethylene Terephthalate Glycol (PETG),1.75,Various,PETG,0.8,N/A,[User Review],No,240,250,No,250,Minimal
+Zortrax,Z-ASA Pro (Acrylonitrile Styrene Acrylate),Acrylonitrile Styrene Acrylate (ASA),1.75,Various,ASA,0.8,N/A,[User Review],No,230,240,No,240,Moderate
+Zortrax,Z-SEMIFLEX (Semi-Flexible TPU),Semi-Flexible TPU (Thermoplastic Polyurethane),1.75,Various,Semi-Flexible TPU,0.8,N/A,[User Review],No,220,240,No,240,Minimal
+Zortrax,Z-ULTRAT (High-Performance ABS),High-Performance ABS (ABS),1.75,Various,ABS,0.8,N/A,[User Review],No,240,250,Yes,250,Moderate
+Zortrax,Z-GLASS (Glass Fiber-Infused PETG),Glass Fiber-Infused PETG,1.75,Various,PETG with Glass Fiber,0.8,N/A,[User Review],No,240,250,Yes,250,Minimal
+Zortrax,Z-HIPS (High Impact Polystyrene),High Impact Polystyrene (HIPS),1.75,Various,HIPS,0.8,N/A,[User Review],No,220,240,Yes,240,Minimal
+Zortrax,Z-NYLON (Nylon),Nylon,1.75,Various,Nylon,0.8,N/A,[User Review],Yes,220,280,Yes,280,Moderate
+Zortrax,Z-PCABS (Polycarbonate-ABS Blend),Polycarbonate-ABS Blend,1.75,Various,Polycarbonate-ABS Blend,0.8,N/A,[User Review],No,240,250,Yes,250,Moderate
+Zortrax,Z-PETG Filament for Inkspire (Resin for Zortrax Inkspire 3D Printer),Resin,405,Various,Photopolymer Resin (SLA),0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Standard Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Tough Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Flexible Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Durable Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,High Temp Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Dental SG Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Dental LT Clear Resin,Photopolymer Resin (SLA),405,Clear,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Dental Model Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Dental Model Resin (Color),Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Surgical Guide Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Castable Wax Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Castable Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Rigid Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Grey Pro Resin,Photopolymer Resin (SLA),405,Grey,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Clear Resin,Photopolymer Resin (SLA),405,Clear,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Black Resin,Photopolymer Resin (SLA),405,Black,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,White Resin,Photopolymer Resin (SLA),405,White,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Color Kit (for Color Mixing),Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,Elastic Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Formlabs,High Temp V2 Resin,Photopolymer Resin (SLA),405,Various,Photopolymer Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Dremel,PLA Filament,Polylactic Acid (PLA),1.75,Various,PLA Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Dremel,ECO-ABS Filament,Environmentally Friendly ABS,1.75,Various,ABS Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Dremel,PETG Filament,Polyethylene Terephthalate Glycol (PETG),1.75,Various,PETG Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Dremel,Nylon Filament,Nylon,1.75,Various,Nylon Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Dremel,HIPS Filament,High Impact Polystyrene (HIPS),1.75,Various,HIPS Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+Dremel,PVA Filament,Polyvinyl Alcohol (PVA),1.75,Clear,PVA Filament,0.5,N/A,[User Review],Yes,N/A,N/A,No,N/A,N/A
+NinjaFlex,TPU,Thermoplastic Polyurethane (TPU),1.75,Various,TPU Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaFlex,Cheetah TPU,Thermoplastic Polyurethane (TPU),1.75,Various,TPU Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaFlex,Armadillo TPU,Thermoplastic Polyurethane (TPU),1.75,Various,TPU Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaFlex,Eel TPU,Thermoplastic Polyurethane (TPU),1.75,Various,TPU Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaFlex,SemiFlex TPU,Thermoplastic Polyurethane (TPU),1.75,Various,TPU Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,NINJAFLEX TPU,Thermoplastic Polyurethane (TPU),1.75,Various,TPU Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-RIGID,Rigid Resin (SLA/DLP),405,Various,Rigid Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-FLEX,Flexible Resin (SLA/DLP),405,Various,Flexible Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-COPPER,Copper-PLA (FDM),1.75,Copper,Copper-PLA,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-PLA,PLA (FDM),1.75,Various,PLA Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-PC,Polycarbonate (FDM),1.75,Various,Polycarbonate,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-PA,Nylon (FDM),1.75,Various,Nylon Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-CASE,Rigid Resin (SLA/DLP),405,Various,Rigid Resin,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-LASTO,TPU (FDM),1.75,Various,TPU Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-ABS,ABS (FDM),1.75,Various,ABS Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-HIPS,High Impact Polystyrene (FDM),1.75,Various,HIPS Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-CARBON,Carbon Fiber PLA (FDM),1.75,Various,PLA Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+NinjaTek,E-GOLD,PLA (FDM),1.75,Gold,PLA Filament,0.5,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,PLA,Polylactic Acid (PLA),1.75,Various,PLA Filament,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,ABS,Acrylonitrile Butadiene Styrene (ABS),1.75,Various,ABS Filament,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,PETG,Polyethylene Terephthalate Glycol (PETG),1.75,Various,PETG Filament,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,Flexible TPU,Thermoplastic Polyurethane (TPU),1.75,Various,TPU Filament,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,Wood PLA,Wood-Infused PLA,1.75,Various,Wood-Infused PLA,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,Marble PLA,Marble-Infused PLA,1.75,Various,Marble-Infused PLA,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,PVA,Polyvinyl Alcohol (PVA),1.75,Clear,PVA Filament,1,N/A,[User Review],Yes,N/A,N/A,No,N/A,N/A
+3D Solutech,HIPS,High Impact Polystyrene (HIPS),1.75,Various,HIPS Filament,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,PC,Polycarbonate (PC),1.75,Various,PC Filament,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,PCTG,Polyethylene Terephthalate Cyclohexanedimethanol Modified (PCTG),1.75,Various,PCTG Filament,1,N/A,[User Review],No,N/A,N/A,No,N/A,N/A
+3D Solutech,PETG Carbon Fiber,Carbon Fiber PETG,1.75,Various,PETG Filament,1,N/A,[User Review],No,N/A,N/A,Yes,N/A,N/A
+3D Solutech,ABS Carbon Fiber,Carbon Fiber ABS,1.75,Various,ABS Filament,1,N/A,[User Review],No,N/A,N/A,Yes,N/A,N/A

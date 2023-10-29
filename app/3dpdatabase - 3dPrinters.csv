@@ -1,0 +1,74 @@
+Manufacturer,Model,Type,X_Size (mm),Y_Size (mm),Z_Size (mm),PriceRange (€),UserRev,Arch,FW,NumExtr,ExtrudType,MultColor,HeatCha,FilDiam (mm),AutBedLev,AuxPrtCool,Maximum Temperature,Enclosure
+FlashForge,Adventurer 3,FDM,150,150,150,400,4,Cartesian,XYZWare,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,220,Open
+FlashForge,Adventurer 3 Pro,FDM,150,150,150,500,4,Cartesian,XYZWare,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,220,Open
+FlashForge,Adventurer 4,FDM,200,200,200,600,4,Cartesian,XYZWare,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,240,Open
+FlashForge,Adventurer 4 Pro,FDM,200,200,200,700,4,Cartesian,XYZWare,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,240,Open
+Snapmaker,Artisan,FDM,220,220,250,800,4.2,Cartesian,ArtisanOS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,400,Enclosed
+Snapmaker,Artisan 3D Drucker,FDM,220,220,250,850,4.3,Cartesian,ArtisanOS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,250 - 400,Enclosed
+Creality,CR-10 Max,FDM,450,450,470,"1,200",4,Cartesian,Marlin,2,Direct Drive,Yes,No,1.75,Auto Bed Sensor,Yes,260,Open
+Creality,CR-10 SE,FDM,300,300,400,600,4,Cartesian,Marlin,1,Bowden,No,No,1.75,BLTouch,Yes,260,Enclosed
+Creality,CR-10 Smart Pro,FDM,300,300,400,750,4,Cartesian,Marlin,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,250 - 260,Enclosed
+Creality,CR-10 V3,FDM,300,300,400,800,4,Cartesian,Marlin,1,Bowden,No,No,1.75,BLTouch,Yes,260,No
+Creality,CR-200B Pro,FDM,300,300,400,900,4,Cartesian,Marlin,2,Direct Drive,Yes,No,1.75,BLTouch,Yes,300,Enclosed
+Creality,CR-3040 Pro,FDM,300,300,400,"1,500",5,Cartesian,Marlin,2,Direct Drive,Yes,Yes,1.75,Auto Bed Sensor,Yes,250 - 400,Enclosed
+Creality,CR-5 Pro High-​Temp,FDM,300,300,400,"1,000",4,Cartesian,Marlin,1,Bowden,No,No,3,BLTouch,Yes,400,Enclosed
+Creality,CR-​M4,FDM,300,300,400,800,4,CoreXY,Marlin,1,Bowden,No,No,1.75,BLTouch,Yes,250,Open
+FlashForge,Creator 3 Pro,FDM,300,300,400,"1,200",5,Cartesian,CreatorOS,2,Direct Drive,Yes,No,1.75,BLTouch,Yes,300,Enclosed
+FlashForge,Guider 3,FDM,300,300,400,800,4,Cartesian,CreatorOS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,250,Enclosed
+Qidi Tech,i-Fast,FDM,300,300,400,"1,000",4.5,Cartesian,i-FastOS,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,260,Open
+Snapmaker,J1,FDM,120,120,150,"1,100",4.6,Delta,J1OS,1,Resin,Yes,No,N/A,J1 Precision Sensor,No,250 - 400,Enclosed
+Snapmaker,J1s,FDM,150,150,200,"1,200",4.8,Delta,J1sOS,1,Resin,Yes,No,N/A,J1s Precision Sensor,No,260 - 400,Enclosed
+Anycubic,Kobra 2,SLA,150,150,200,1100,5,Delta,KobraOS,1,Resin,Yes,No,1.75,Kobra Precision Sensor,No,260,Open
+Anycubic,Kobra 2 Max,SLA,200,200,300,1300,5,Delta,KobraOS,1,Resin,Yes,No,1.75,Kobra Precision Sensor,No,260,Enclosed
+Anycubic,Kobra 2 Neo,SLA,150,150,200,1200,5,Delta,KobraOS,1,Resin,Yes,No,1.75,Kobra Precision Sensor,No,260,Enclosed
+Anycubic,Kobra 2 Plus,SLA,200,200,300,1400,5,Delta,KobraOS,2,Resin,Yes,No,1.75,Kobra Precision Sensor,No,260,Enclosed
+Anycubic,Kobra 2 Pro,SLA,200,200,400,1600,5,Delta,KobraOS,2,Resin,Yes,No,1.75,Kobra Precision Sensor,No,260,Enclosed
+Zortrax,M200 Plus,FDM,200,200,200,800,4.2,Cartesian,M200OS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,260 - 300,Enclosed
+Zortrax,M300 Dual,FDM,300,300,400,"1,000",4.5,Cartesian,M300OS,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,300 - 400,Enclosed
+AnkerMake,M5,FDM,200,200,200,500,4,Cartesian,Marlin,1,Bowden,No,No,1.75,BLTouch,Yes,250 - 260,Open
+AnkerMake,M5C,FDM,250,250,300,700,5,Cartesian,Marlin,2,Direct Drive,Yes,No,1.75,Auto Bed Sensor,Yes,250 - 260,Open
+MINGDA,Magician Max,FDM,200,200,200,700,4.4,Cartesian,MagicianOS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,,
+MINGDA,Magician Pro,FDM,220,220,250,800,4.5,Cartesian,MagicianOS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,260,Open
+MINGDA,Magician X2,FDM,250,250,250,900,4.6,Cartesian,MagicianOS,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,260,Open
+Elegoo,Neptune 3 Max,FDM,300,300,400,800,4,Cartesian,Marlin,1,Bowden,No,No,1.75,BLTouch,Yes,300,Enclosed
+Elegoo,Neptune 3 Plus,FDM,300,300,400,900,4,Cartesian,Marlin,2,Bowden,No,No,1.75,BLTouch,Yes,300,Enclosed
+Elegoo,Neptune 3 Pro,FDM,300,300,400,"1,000",4,Cartesian,Marlin,2,Direct Drive,Yes,No,1.75,BLTouch,Yes,300,Enclosed
+Elegoo,Neptune 4,FDM,400,400,500,"1,200",5,Cartesian,Marlin,1,Bowden,No,No,1.75,BLTouch,Yes,300,Enclosed
+Elegoo,Neptune 4 Max,FDM,400,400,500,"1,400",5,Cartesian,Marlin,2,Bowden,No,No,1.75,BLTouch,Yes,300,Enclosed
+Elegoo,Neptune 4 Plus,FDM,400,400,500,"1,300",5,Cartesian,Marlin,2,Direct Drive,Yes,No,1.75,BLTouch,Yes,300,Enclosed
+Elegoo,Neptune 4 Pro,FDM,400,400,500,"1,500",5,Cartesian,Marlin,2,Direct Drive,Yes,Yes,1.75,BLTouch,Yes,300,Enclosed
+Prusa,Original Prusa i3 MK2,FDM,250,210,210,,,Cartesian,Prusa Firmware,1,Bowden,No,No,1.75,Manual Leveling,Yes,300,Open
+Prusa,Original Prusa i3 MK2.5,FDM,250,210,210,,,Cartesian,Prusa Firmware,1,Bowden,No,No,1.75,Manual Leveling,Yes,300,Open
+Prusa,Original Prusa i3 MK2S,FDM,250,210,210,,,Cartesian,Prusa Firmware,1,Bowden,No,No,1.75,Manual Leveling,Yes,300,Open
+Prusa,Original Prusa i3 MK3,FDM,250,210,210,,,Cartesian,Prusa Firmware,1,Bowden,No,No,1.75,Auto Bed Leveling (inductive),Yes,300,Open
+Prusa,Original Prusa i3 MK3S,FDM,250,210,210,,,Cartesian,Prusa Firmware,1,Bowden,No,No,1.75,Auto Bed Leveling (inductive),Yes,300,Open
+Prusa,Original Prusa i3 MK3S+,FDM,250,210,210,,,Cartesian,Prusa Firmware,1,Bowden,No,No,1.75,Auto Bed Leveling (inductive),Yes,300,Open
+Prusa,Original Prusa Mini,FDM,180,180,180,,,Cartesian,Prusa Firmware,1,Bowden,No,No,1.75,Auto Bed Leveling (inductive),Yes,280,Open
+FLSUN,Q5,FDM,300,300,400,950,4,Cartesian,Q5OS,1,Bowden,No,No,1.75,BLTouch,Yes,300,Enclosed
+Snapmaker,Snapmaker 2.0,FDM,160,160,160,"1,000",4.4,Cartesian,SnapmakerOS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,260 - 275,Open
+FLSUN,Super Racer,FDM,200,200,200,700,4,Cartesian,SuperRacerOS,1,Direct Drive,Yes,No,1.75,BLTouch,Yes,260,Enclosed
+Snapmaker,SV01 Pro,FDM,250,250,250,"1,300",4.5,Cartesian,SV01OS,2,Direct Drive,Yes,No,1.75,Auto Bed Sensor,Yes,250 - 300,Enclosed
+Sovol,SV04,FDM,220,220,250,900,4,Cartesian,SV04OS,1,Bowden,No,No,1.75,Auto Bed Sensor,Yes,200 - 250,Open
+Sovol,SV06,FDM,300,300,400,"1,000",4.2,Cartesian,SV06OS,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,200 - 250,Open
+Sovol,SV06 Plus,FDM,300,300,400,"1,100",4.3,Cartesian,SV06OS,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,200 - 250,Open
+Sovol,SV07,FDM,300,300,400,"1,200",4.4,Cartesian,SV07OS,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,200 - 250,Open
+COMGROW,T500,FDM,300,300,400,800,4,Cartesian,Marlin,1,Bowden,No,No,1.75,BLTouch,Yes,300,Enclosed
+Ultimaker,Ultimaker 2 Extended+,FDM,223,220,305,,,Single Extrusion,UltimakerOS,1,Bowden,No,No,2.85,Manual leveling,Yes,260,Open
+Ultimaker,Ultimaker 2+,FDM,223,220,205,,,Single Extrusion,UltimakerOS,1,Bowden,No,No,2.85,Manual leveling,Yes,260,Open
+Ultimaker,Ultimaker 2+ Connect,FDM,223,220,205,,,Single Extrusion,UltimakerOS,1,Bowden,No,No,2.85,Manual leveling,Yes,260,Open
+Ultimaker,Ultimaker 3,FDM,215,215,200,,,Dual Extrusion,UltimakerOS,2,Bowden,Yes,No,2.85,Active leveling (capacitive),Yes,280,Open
+Ultimaker,Ultimaker Original+,FDM,210,205,205,,,Single Extrusion,UltimakerOS,1,Bowden,No,No,2.85,Manual leveling,Yes,260,Open
+Ultimaker,Ultimaker S3,FDM,230,190,200,,,Dual Extrusion,UltimakerOS,2,Bowden,Yes,Yes,2.85,Active leveling (capacitive),Yes,280,Open
+Ultimaker,Ultimaker S5,FDM,330,240,300,,,Dual Extrusion,UltimakerOS,2,Bowden,Yes,Yes,2.85,Active leveling (capacitive),Yes,280,Open
+Ultimaker,Ultimaker S5 Pro Bundle,FDM,330,240,300,,,Dual Extrusion,UltimakerOS,2,Bowden,Yes,Yes,2.85,Active leveling (capacitive),Yes,280,Enclosed
+FLSUN,V400,FDM,300,300,400,900,4,Cartesian,V400OS,1,Bowden,No,No,1.75,BLTouch,Yes,250 - 300,Open
+LDO Motors,Voron 2.4 300,FDM,300,300,300,"1,200",5,CoreXY,VoronOS,2,Direct Drive,Yes,Yes,1.75,BLTouch,Yes,300,Enclosed
+LDO Motors,Voron 2.4 350,FDM,350,350,350,"1,400",5,CoreXY,VoronOS,2,Direct Drive,Yes,Yes,1.75,BLTouch,Yes,350,Enclosed
+LDO Motors,Voron Trident 250,FDM,250,250,250,"1,100",4,CoreXY,VoronOS,2,Direct Drive,Yes,Yes,1.75,BLTouch,Yes,250,Enclosed
+LDO Motors,Voron Trident 300,FDM,300,300,300,"1,300",4,CoreXY,VoronOS,2,Direct Drive,Yes,Yes,1.75,BLTouch,Yes,300,Enclosed
+LDO Motors,Voron V0-S1,FDM,150,150,200,900,4,CoreXY,VoronOS,2,Direct Drive,Yes,No,1.75,BLTouch,Yes,250 - 300,Enclosed
+LDO Motors,Voron V0.2-S1,FDM,200,200,250,"1,200",4.2,CoreXY,VoronOS,2,Direct Drive,Yes,No,1.75,BLTouch,Yes,250 - 300,Enclosed
+Qidi Tech,X-CF Pro,FDM,300,300,400,"1,200",4.6,Cartesian,X-CFOS,2,Direct Drive,Yes,No,1.75,Auto Bed Sensor,Yes,270,Open
+Qidi Tech,X-Max 3,FDM,300,300,400,"1,100",4.4,Cartesian,X-MaxOS,2,Bowden,No,No,1.75,Auto Bed Sensor,Yes,260 - 300,Enclosed
+Qidi Tech,X-Plus 3,FDM,300,300,400,"1,300",4.7,Cartesian,X-PlusOS,2,Direct Drive,Yes,No,1.75,Auto Bed Sensor,Yes,400,Enclosed
+Qidi Tech,X-Smart 3,FDM,300,300,400,"1,400",4.8,Cartesian,X-SmartOS,2,Bowden,Yes,No,1.75,Auto Bed Sensor,Yes,400,Enclosed
